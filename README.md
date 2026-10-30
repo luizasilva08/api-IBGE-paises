@@ -103,11 +103,6 @@ api-IBGE-paises/
 └── README.md              # Documentação
 ```
 
-## 📸 Demonstração
-
-<!-- ⚠️ Adicione prints ou GIFs do projeto em funcionamento -->
-<!-- ![Demonstração](docs/demo.png) -->
-
 ## 👩‍💻 Autora
 
 <div align="center">
