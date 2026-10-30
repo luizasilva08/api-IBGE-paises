@@ -63,9 +63,9 @@ pip install -r requirements.txt
 
 ```bash
 # ⚠️ Ajuste o comando conforme o projeto
-python main.py
+python app.py
 # ou
-streamlit run app.py
+streamlit run front-end.py
 ```
 
 ## 🔌 API utilizada
